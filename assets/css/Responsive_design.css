@@ -1,0 +1,301 @@
+
+
+
+
+/* Mobile */
+@media screen and (max-width: 767px) {
+    /* ****************************************************************************** */
+                                /* page1 */
+    .container-fluid {
+        padding-top: 15px;
+        padding-right: 23%;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    h6, .h6 {
+        font-size: 13px;
+    }
+    .navbar-nav>li h6 {
+        font-size: 2rem;
+    }
+    .FormAll form .section-One header h6 {
+        font-weight: 800;
+        font-size: 2rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg label {
+        font-size: 1.5rem;
+    }
+    .FormAll form .section-One h6 {
+        font-weight: 700;
+        font-size: 1.8rem;
+        line-height: 22px;
+    }
+    .FormAll form .section-One .SheckB .Box {
+        width: 100%;
+    }
+    .FormAll form .section-One .SheckB .Box label {
+        font-weight: 600;
+        font-size: 1.5rem;
+    }
+    .FormAll form .section-One .div-section-two label {
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 22px;
+    }
+    .FormAll form .section-One .div-section-two .gender-All div label{
+        font-weight: 500;
+        font-size: 1.5rem;
+        line-height: 22px;
+    }
+    .FormAll form .section-One .div-section-two .gender-All {
+        flex-wrap: wrap;
+    }
+    .FormAll form .section-One .div-section-two .gender-All div{
+        width: 50%;
+        margin: 1rem 0;
+    }
+    .FormAll form .section-One .div-section-two .gender-All div {
+        width: 100%;
+        margin: 0;
+    }
+    .FormAll form .section-One .div-section-two  .if-Y {
+    width: 100%;
+    font-size: .66rem;
+    font-weight: 900;
+    }
+    .FormAll form .section-One .div-section-two .A-permit {
+        font-size: 1.5rem;
+        line-height: 20px;
+    }
+    .FormAll form .section-One .div-section-two .boxImg input[type="text"],input[type="time"],input[type="email"] {
+        border-width: 1px;
+        font-size: 1.5rem;
+        padding: 0.6rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg input[type="date"] {
+        border-width: 1px;
+        font-size: 1.5rem;
+        padding: 0.4rem;
+        opacity: .6;
+    }
+    .FormAll form .section-One .SheckB .Box input[type="text"] {
+        font-size: 1.5rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg select {
+        border-width: 1px;
+        font-size: 1.5rem;
+        padding: 0.6rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg .file {
+        height: 90px;
+        border-width: 1px ;
+    }
+    .FormAll form .section-One .div-section-two .boxImg input[type="file"] {
+        height: 90px;
+    }
+    .FormAll form input[type="button"] {
+        margin: 2rem 0 1rem 0;
+        font-size: 1.4rem;
+        padding: 0.5rem 2rem 0.5rem;
+    }
+    .boxImg .img-file {
+        top: 60%;
+        width: 100%;
+    }
+    .FormAll form .section-One img {
+        width: 3rem;
+        margin: 0 45%;
+    }
+    .boxImg .file .img-file .p-img-file {
+        text-align: center;
+        font-size: 1.3rem;
+        opacity: .4;
+        padding: 0.6rem 0 0 0;
+    }
+    .hidee {
+        display: none;
+    }
+    .FormAll form .section-One header img {
+        width: 2rem;
+        margin: 0 0 0.4rem 1rem;
+    }
+
+
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page2 */
+
+    .FormAll form a:nth-last-of-type(1) [type="button"] {
+        margin: 2rem 1rem 1rem 0;
+        font-size: 1.4rem;
+        padding: 0.5rem 2.3rem 0.5rem;
+    }
+
+
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page3 */
+
+    .FormAll form .div-section-two .boxImg-all .boxImg input[type="number"], input[type="email"], input[type="time"] {
+        border-width: 1px;
+        font-size: 1.5rem;
+        padding: 0.6rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg textarea {
+        border-width: 1px;
+        font-size: 1.5rem;
+        padding: 1rem;
+    }
+    .FormAll form .section-One .div-section-two .boxImg-all {
+        display: block;
+    }
+    .FormAll form .section-One .div-section-two .boxImg-all .boxImg {
+        width: 100%;
+    }
+    .FormAll form .section-One .div-section-two  .label-input {
+        width: 100%;
+    }
+    .FormAll form .section-One .div-section-two .boxImg-all2 {
+        display: block;
+    }
+    .FormAll form .section-One .div-section-two .boxImg-all2 .boxImg {
+        width: 100%;
+    }
+    .FormAll form .section-One .div-section-two .gender1-all input {
+        margin: 0 0 0 0.5rem;
+    }
+    .FormAll form .section-One .div-section-two .gender1-all div {
+        width: 45%;
+    }
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page4 */
+    .FormAll form .section-One .div-section-two .div-section-two2 input[type="text"]{
+        font-size: 1.4rem;
+    }
+
+    
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page5 */
+
+    .FormAll form .section-One .div-section-two .SheckB .Box {
+        width: 100%;
+    }
+    .FormAll form .section-One .div-section-two  .Box input[type="text"] {
+        font-size: 1.4rem;
+    }
+                                
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page6 */
+
+    .FormAll form .div-section-two .div-section-two2 h5, .div-section-two h5 {
+        font-size: 1.8rem;
+    }
+
+
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+    /* ****************************************************************************** */
+                                /* page9 */
+
+    .FormAll form .section-One .SheckB .suggestion .suggestion1 label {
+        width: 15%;
+    }
+    .FormAll form .section-One .SheckB .suggestion .suggestion1 .suggestion2 .ChBoxAll .ChBox {
+        width: 20%;
+    }
+    h4 {
+        font-size: 1.8rem;
+        margin: 2rem 0 0 0;
+    }
+    .FormAll form .section-One .div-section-two p {
+        font-size: 1.4rem;
+    }
+    .FormAll form .section-One .SheckB .ChBox {
+        width: 100%;
+    }
+    .FormAll form .section-One .div-section-two .boxImg textarea {
+        margin-bottom: 0rem;
+    }
+    .FormAll form .section-One .new-check .ckecked label {
+        width: 35%;
+    }
+                                
+
+}
+
+
+/* small Screens */
+@media screen and (min-width: 768px) {
+
+}
+
+/* Medium Screen */
+@media screen and (min-width: 992px) {
+
+}
+/* Large Screens */
+@media screen and (min-width: 1024px) {
+    .container {
+        width: 865px;
+}
+}
+/* X Large Screens */
+
+@media screen and (min-width: 1200px) {
+    .container {
+        width: 925px;   
+}
+}
+@media screen and (min-width: 1400px) {
+    .container {
+        width: 1100px;
+}
+}
+@media screen and (min-width: 1600px) {
+    .container {
+        width: 1170px;
+}
+
+
+}
+
+
